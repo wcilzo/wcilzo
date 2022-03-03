@@ -10,7 +10,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kilzo&repo=Kilzo_vueBlog&theme=tokyonight" width = "48%"/>
   </a>
   <a href="https://github.com/Kilzo/Kilzo.github.io">
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kilzo&repo=Kilzo.github.io&theme=tokyonight" width="48%"/>
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kilzo&repo=Kilzo.github.io&theme=tokyonight" width="45%"/>
   </a>
   <img align = "center" src = "https://github-profile-trophy.vercel.app/?username=Kilzo&column=8&no-bg=true" >
 </p>
