@@ -1,7 +1,6 @@
-- 👋 Hi, I’m wcilzo,Kilzo is my old name,If you see in my related content or site this name, please don't be surprised.
+- 👋 Hi, I’m wcilzo.
 - 👀 I’m interested in Vue, C++ and algorithms.
 - 🌱 I’m currently learning Vue, C++ and algorithms.
-- 🎈 Now this account is mainly used to store personal blog information by me.🎈
 
 <p align = 'right'>
   <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=wcilzo&count_private=true&show_icons=true&theme=tokyonight&line_height=27" width = "50%">
