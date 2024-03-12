@@ -9,7 +9,7 @@
   </a>
   <img align = "justify" src = "https://github-profile-trophy.vercel.app/?username=wcilzo&column=10&no-bg=true" >
 </p>
-<p align = "center">
+<!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=wcilzo&theme=react-dark">
-</p>
+</p> -->
 
