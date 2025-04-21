@@ -1,6 +1,6 @@
 - 👋 Hi, I’m wcilzo.
-- 👀 I’m interested in Vue, C++ and algorithms.
-- 🌱 I’m currently learning Vue, C++ and algorithms.
+- 👀 I’m interested in Go, Java and algorithms.
+- 🌱 I’m currently learning Go and algorithms.
 
 <p align = 'right'>
   <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=wcilzo&count_private=true&show_icons=true&theme=tokyonight&line_height=27" width = "50%">
