@@ -1,7 +1,5 @@
 - 👋 Hi, I’m wcilzo.
-- 👀 I’m interested in Go, Java and algorithms.
-- 🌱 I’m currently learning Go and algorithms.
-
+- 👀 I’m interested in Java、Go.
 <p align = 'right'>
   <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=wcilzo&count_private=true&show_icons=true&theme=tokyonight&line_height=27" width = "50%">
   <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com?user=wcilzo&theme=tokyonight" width = "50%">
